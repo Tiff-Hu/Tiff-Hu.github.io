@@ -37,6 +37,20 @@ GPA: 3.98 / 4.0 | Sep. 2021 – Exp. Jun. 2025
 - Applied machine learning techniques for predictive modeling, classification, clustering, and natural language processing.
 - Created compelling visualizations using Tableau, PowerBI, and matplotlib to effectively communicate findings to both technical and non-technical stakeholders.
 
+### Data Analyst | PwC, Remote  
+*August 2023 – October 2023*
+- Designed and developed data/metadata models using advanced statistical and data mining techniques to drive business insights and decision-making.
+- Liaised with consulting analysts, data providers, and business teams, ensuring data insights were effectively communicated and integrated into business strategies.
+- Interpreted data product needs from various stakeholders and transformed these into actionable technical specifications for data extraction, transformation, and loading (ETL).
+- Ensured data integrity and reliability by implementing data cleansing processes, enabling more accurate and dependable analyses.
+- Utilized tools such as SQL, Python, and Tableau to perform in-depth data analyses, generating reports and dashboards that guided key business decisions.
+
+### Data Assistant | UCLA, Los Angeles, CA  
+*September 2022 – December 2023*
+- Collaboratively designed and curated a pedagogically enriched curriculum catering to diverse learning needs of 50+ students.
+- Automated the grading process where feasible, leveraging rudimentary scripts to streamline workload and minimize manual error.
+- Managed and processed students' performance data, employing Excel's advanced analytics functions for insightful trend extraction.
+
 ## Academic Projects
 
 ### Bayesian Analysis on Household Dietary Diversity  
