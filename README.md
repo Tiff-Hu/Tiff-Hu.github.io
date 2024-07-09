@@ -9,7 +9,7 @@ GPA: 3.98 / 4.0 | Sep. 2021 – Exp. Jun. 2025
 **Relevant Coursework**: Optimization, Regression Modeling, Linear Algebra, Text Mining, Statistical Learning, Linear Models
 
 ## Skills
-- **Technical Skills**: Python, R, SQL, C++, JavaScript, Looker Studio, Advanced Excel
+- **Technical Skills**: Python, R, SQL, C++, JavaScript, Looker Studio, Advanced Excel 
 - **Machine Learning & Programming**: A/B Testing, Regression, Time Series, Cloud Computing, NLP
 
 ## Professional Experience
