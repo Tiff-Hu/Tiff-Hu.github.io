@@ -9,7 +9,7 @@ email: tiffanyy1101@gmail.com
 description: Welcome to my personal website! I'm Tiffany Hu, a passionate data scientist dedicated to uncovering insights from data and creating impactful solutions.
 baseurl: ""
 url: "https://yifanhu.me"
-theme: minimal-mistakes-jekyll 
+theme: minima 
 github_username: Tiff-Hu
 
 # Social links
@@ -36,8 +36,7 @@ footer: |
   © 2024 Tiffany Hu. All rights reserved.
   Built with ❤️ using Jekyll and the Midnight theme.
 
-# Theme settings
-minimal_mistakes_skin: "air"
+
 
 
 
