@@ -1,4 +1,4 @@
-![Profile Picture](/assets/biopic.jpg)
+![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
 I'm Yifan (Tiffany) Hu, a passionate data scientist and software engineer with a solid foundation in statistics and data science. I am currently pursuing my Bachelor of Science at the University of California, Los Angeles, with an expected graduation date in June 2025. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and software development.
