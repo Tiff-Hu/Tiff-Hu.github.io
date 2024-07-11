@@ -1,7 +1,39 @@
 
-title: Yifan (Tiffany) Hu
-#logo: /assets/23fcb415b6258a21c6382f7808c9e72c.JPG
-show_downloads: false
-theme: jekyll-theme-minimal
+# title: Yifan (Tiffany) Hu
+# #logo: /assets/23fcb415b6258a21c6382f7808c9e72c.JPG
+# show_downloads: false
+# theme: jekyll-theme-minimal
+
+title: Tiffany Hu
+email: tiffanyy1101@gmail.com
+description: Welcome to my personal website. I'm Tiffany Hu, a passionate data scientist and software engineer dedicated to uncovering insights from data and creating impactful solutions.
+baseurl: ""
+url: "https://yifanhu.me"
+theme: minima
+github_username: Tiff-Hu
+
+# Social links
+social:
+  linkedin: https://www.linkedin.com/in/tiffany-hu-career1101/
+  github: https://github.com/Tiff-Hu
+  
+
+# Navigation
+navigation:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Projects
+    link: /projects/
+  - name: Contact
+    link: /contact/
+
+# Footer customization
+footer: |
+  © 2024 Tiffany Hu. All rights reserved.
+  Built with ❤️ using Jekyll and the Midnight theme.
+
+
 
 
