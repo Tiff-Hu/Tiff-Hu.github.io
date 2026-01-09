@@ -26,7 +26,7 @@ sensors with a multivariate signal-processing pipeline. Designed probabilistic e
 
 ## Research Experience
 
-### Research Assistant | UCLA Anderson School of Management,Los Angeles, CA  
+### Research Assistant | UCLA Anderson School of Management, Los Angeles, CA  
 *April 2025 – June 2025*
 - Developed automated matching algorithms in Python and structured tabular data to process 40,000+ financial records, achieving 73% accuracy using text normalization, Jaccard similarity, and Levenshtein distance.
 - Supported financial research analysis by developing record-linkage algorithms for noisy, high-dimensional tabular data.
