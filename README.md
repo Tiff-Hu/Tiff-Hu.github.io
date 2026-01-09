@@ -1,7 +1,7 @@
 ![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
-I'm Yifan (Tiffany) Hu, a passionate data scientist and researcher with a solid foundation in statistical methods and its applications in other domains. I recently graduated from University of California, Los Angeles with a Bachelor of Science in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research.
+I'm Yifan (Tiffany) Hu, a passionate data scientist and researcher with a solid foundation in statistical methods and its applications in other domains. I recently graduated from University of California, Los Angeles with a Bachelor of Science in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Details of some of my work can be found in my personal GitHub page. 
 
 ## Education
 **Bachelor of Science in Statistics and Data Science | University of California, Los Angeles**  
@@ -21,6 +21,7 @@ GPA: 3.98 / 4.0 | Sep. 2021 – Sep. 2025
 - **Co-inventor**. Bridge Icing Monitoring, Early Warning, and Mitigation System. Chinese Patent Application:
 CN202310558553.8. Developed a real-time hazard detection system integrating distributed meteorological and infrared
 sensors with a multivariate signal-processing pipeline. Designed probabilistic early-warning thresholds to infer icing risk and contributed to automated actuation workflows for de-icing deployment.
+
 - **Co-inventor**. Self-cleaning Multilayer Radiative Cooling Film. Chinese Patent Application: 202511190946.3. Engineered a multilayer hybrid nanomaterial structure for passive radiative cooling, incorporating PVDF-HFP fiber networks, fluorinated SiO2 nanoparticles, and PDA-reinforced interfaces. Evaluated performance using statistical characterization of emissivity (8–13 µm), durability, and hydrophobicity, and contributed to data-driven optimization of material layering.
 
 ## Research Experience
