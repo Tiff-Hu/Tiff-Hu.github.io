@@ -1,18 +1,29 @@
 ![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
-I'm Yifan (Tiffany) Hu, a passionate data scientist and software engineer with a solid foundation in statistics and data science. I am currently pursuing my Bachelor of Science at the University of California, Los Angeles, with an expected graduation date in June 2025. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and software development.
+I'm Yifan (Tiffany) Hu, a passionate data scientist and researcher with a solid foundation in statistical methods and its applications in other domains. I recently graduated from University of California, Los Angeles with a Bachelor of Science in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research.
 
 ## Education
 **Bachelor of Science in Statistics and Data Science | University of California, Los Angeles**  
-GPA: 3.98 / 4.0 | Sep. 2021 – Exp. Jun. 2025  
-**Relevant Coursework**: Optimization, Regression Modeling, Linear Algebra, Text Mining, Statistical Learning, Linear Models
+GPA: 3.98 / 4.0 | Sep. 2021 – Sep. 2025  
+**Relevant Coursework**: Optimization, Regression Modeling, Linear Algebra, Design and Analysis of Experiment, Text Mining, Statistical Learning, Linear Models, Monte Carlo Methods, Statistical Analysis of Networks, Applied Bayesian Social Statistics, Causality
 
-## Skills
-- **Technical Skills**: Python, R, SQL, C++, JavaScript, Looker Studio, Advanced Excel
-- **Machine Learning & Programming**: A/B Testing, Regression, Time Series, Cloud Computing, NLP
+## Technical Skills
+- **Programming**: Python, R, Javascript, MATLAB, C++
+- **Statistics & Machine Learning**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Transformers, Hugging Face, JAX, VLLM
+- **Beyesian Inference**: Stan, rstan, rstanarm, CmdStanPy, coda, loo
+- **Causal Inference**: MatchIt, dagitty, SuperLearner, ivreg
+- **Network Analysis**: sna, NetworkX, igraph
+- **Data & Systems**: SQL, Git, Docker, Tableau, Looker Studio, PowerBI
 
-## Professional Experience
+## Patents & Inventions
+
+- Co-inventor. Bridge Icing Monitoring, Early Warning, and Mitigation System. Chinese Patent Application:
+CN202310558553.8. Developed a real-time hazard detection system integrating distributed meteorological and infrared
+sensors with a multivariate signal-processing pipeline. Designed probabilistic early-warning thresholds to infer icing risk and contributed to automated actuation workflows for de-icing deployment.
+- Co-inventor. Self-cleaning Multilayer Radiative Cooling Film. Chinese Patent Application: 202511190946.3. Engineered a multilayer hybrid nanomaterial structure for passive radiative cooling, incorporating PVDF-HFP fiber networks, fluorinated SiO2 nanoparticles, and PDA-reinforced interfaces. Evaluated performance using statistical characterization of emissivity (8–13 µm), durability, and hydrophobicity, and contributed to data-driven optimization of material layering.
+
+## Industry Experience
 
 ### Data Analyst | Ciba Health, New York, NY  
 *April 2024 – July 2024*
