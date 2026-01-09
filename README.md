@@ -18,37 +18,79 @@ GPA: 3.98 / 4.0 | Sep. 2021 – Sep. 2025
 
 ## Patents & Inventions
 
-- Co-inventor. Bridge Icing Monitoring, Early Warning, and Mitigation System. Chinese Patent Application:
+- *Co-inventor*. Bridge Icing Monitoring, Early Warning, and Mitigation System. Chinese Patent Application:
 CN202310558553.8. Developed a real-time hazard detection system integrating distributed meteorological and infrared
 sensors with a multivariate signal-processing pipeline. Designed probabilistic early-warning thresholds to infer icing risk and contributed to automated actuation workflows for de-icing deployment.
-- Co-inventor. Self-cleaning Multilayer Radiative Cooling Film. Chinese Patent Application: 202511190946.3. Engineered a multilayer hybrid nanomaterial structure for passive radiative cooling, incorporating PVDF-HFP fiber networks, fluorinated SiO2 nanoparticles, and PDA-reinforced interfaces. Evaluated performance using statistical characterization of emissivity (8–13 µm), durability, and hydrophobicity, and contributed to data-driven optimization of material layering.
+- *Co-inventor*. Self-cleaning Multilayer Radiative Cooling Film. Chinese Patent Application: 202511190946.3. Engineered a multilayer hybrid nanomaterial structure for passive radiative cooling, incorporating PVDF-HFP fiber networks, fluorinated SiO2 nanoparticles, and PDA-reinforced interfaces. Evaluated performance using statistical characterization of emissivity (8–13 µm), durability, and hydrophobicity, and contributed to data-driven optimization of material layering.
+
+## Research Experience
+
+### Research Assistant | UCLA Anderson School of Management,Los Angeles, CA  
+*April 2025 – June 2025*
+- Developed automated matching algorithms in Python and structured tabular data to process 40,000+ financial records, achieving 73% accuracy using text normalization, Jaccard similarity, and Levenshtein distance.
+- Supported financial research analysis by developing record-linkage algorithms for noisy, high-dimensional tabular data.
+- Built multi-dataset integration workflows by combining master databases and reference lists through programmatic
+lookup tables and cross-validation algorithms to ensure data integrity.
+- Implemented a tiered data validation system with certainty classification (Level 1/2) and automated error-detection protocols to verify accuracy.
+
+### Researcher | UCLA Luskin School of Public Affairs, Los Angeles, CA  
+*February 2025 – April 2025*
+- Designed and implemented Bayesian hierarchical models in Stan and Python to analyze the impact of instrumental
+variables on population density trends.
+- Integrated GIS and demographic data into a reproducible spatial analysis pipeline.
+- Collaborated with policy researchers to translate results into actionable insights.
+- Optimized model convergence and diagnostics, improving scalability by 40%.
+
+### Software Engineer | UCLA Anderson School of Management, Los Angeles, CA  
+*December 2024 – March 2025*
+- Developed a full-stack application integrating React, Flask, and AWS for chronic disease data analysis, incorporating machine learning models.
+- Partnered with MBA researchers to translate complex healthcare datasets into strategic business insights through
+interactive dashboards.
+- Applied iterative prototyping and scalable deployment of data-driven systems to refine pipelines and improve real-time data processing efficiency.
+- Integrated predictive modeling workflows into the application, supporting exploratory analysis of chronic disease risk.
+
+### Data Research Team Lead | UCLA Department of Economics, Los Angeles, CA
+*October 2024 – September 2025*
+- Led a team analyzing cognitive impairment trends across multiple countries for the International Long-Term Care
+Project, contributing to aging-related policy research.
+- Oversaw collection and cleaning of multi-source datasets, applying advanced EDA in Stata to uncover key insights.
+- Integrated R and Python into statistical workflows, reducing manual processing time by 30% and improving model
+performance.
+- Produced publication-ready tables and figures, translating raw data into impactful outputs for researchers and
+stakeholders.
+
+### Data / AI Analyst | City of Palo Alto, Palo Alto, CA  
+*September 2023 – November 2023*
+- Developed predictive models to optimize city services, applying advanced statistical methods and machine learning to infrastructure datasets.
+- Automated extraction, transformation, and storage workflows, reducing reporting time by 37%.
+- Built interactive dashboards in Tableau and Power BI to make urban analytics accessible to policymakers and
+department heads.
+- Partnered with city officials and cross-functional teams to ensure technical findings informed actionable municipal policies.
+
+### Data Assistant | UCLA Department of Mathematics, Los Angeles, CA  
+*September 2022 – December 2023*
+- Automated grading workflows in Python, reducing manual workload by 26% and improving efficiency for 50+ students.
+- Analyzed and visualized student performance data, generating insights that informed curriculum adjustments.
+- Built scalable pipelines with Python, R, and Excel, ensuring accuracy through robust quality checks.
+
 
 ## Industry Experience
 
-### Data Analyst | Ciba Health, New York, NY  
+### Data Analyst Intern | Ciba Health, New York, NY  
 *April 2024 – July 2024*
 - Designed and developed data/metadata models using advanced statistical and data mining techniques to improve treatment methodologies and drive decision-making.
 - Utilized SQL, Python, and Looker Studio to perform in-depth data analyses, generating reports for key business decisions.
 - Liaised with patient care teams, healthcare providers, and engineering teams to ensure data insights were effectively communicated and integrated into executable strategies.
 - Interpreted data product needs from various client companies and transformed these into actionable technical specifications for ETL processes, ensuring data integrity and reliability.
 
-### Software Engineer | NeuroLeap, San Jose, CA  
+### Software Engineer Intern | NeuroLeap, San Jose, CA  
 *October 2023 – December 2023*
 - Designed, developed, and implemented software solutions for business and client needs.
 - Collaborated across functions to define, design, and ship new features; maintained and improved the performance of existing software.
 - Employed diverse frameworks and technologies to create scalable and efficient solutions using C++, Python, and JavaScript.
 - Conducted trial runs of programs and software applications to ensure they produced the desired information.
 
-### Data / AI Analyst | City of Palo Alto, Palo Alto, CA  
-*October 2023 – November 2023*
-- Leveraged advanced statistical techniques and modeling algorithms to analyze large datasets and extract actionable insights.
-- Developed predictive models to address technical challenges and support decision-making.
-- Skilled in data mining, cleaning, and preprocessing to prepare datasets for analysis.
-- Managed and optimized data collection and storage processes to improve data quality and efficiency.
-- Applied machine learning techniques for predictive modeling, classification, clustering, and natural language processing.
-- Created compelling visualizations using Tableau, PowerBI, and matplotlib to effectively communicate findings to both technical and non-technical stakeholders.
-
-### Data Analyst | PwC, Remote  
+### Data Analyst Intern | PwC, Remote  
 *August 2023 – October 2023*
 - Designed and developed data/metadata models using advanced statistical and data mining techniques to drive business insights and decision-making.
 - Liaised with consulting analysts, data providers, and business teams, ensuring data insights were effectively communicated and integrated into business strategies.
@@ -56,11 +98,6 @@ sensors with a multivariate signal-processing pipeline. Designed probabilistic e
 - Ensured data integrity and reliability by implementing data cleansing processes, enabling more accurate and dependable analyses.
 - Utilized tools such as SQL, Python, and Tableau to perform in-depth data analyses, generating reports and dashboards that guided key business decisions.
 
-### Data Assistant | UCLA, Los Angeles, CA  
-*September 2022 – December 2023*
-- Collaboratively designed and curated a pedagogically enriched curriculum catering to diverse learning needs of 50+ students.
-- Automated the grading process where feasible, leveraging rudimentary scripts to streamline workload and minimize manual error.
-- Managed and processed students' performance data, employing Excel's advanced analytics functions for insightful trend extraction.
 
 ## Academic Projects
 
