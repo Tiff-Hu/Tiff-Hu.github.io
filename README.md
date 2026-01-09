@@ -100,7 +100,7 @@ department heads.
 - Utilized tools such as SQL, Python, and Tableau to perform in-depth data analyses, generating reports and dashboards that guided key business decisions.
 
 
-## Academic Projects
+## Selected Research Projects
 
 ### Bayesian Analysis on Household Dietary Diversity  
 
