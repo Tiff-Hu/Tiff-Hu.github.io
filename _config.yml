@@ -9,7 +9,7 @@ email:
 description: Welcome to my personal website! I'm Tiffany Hu, a passionate data scientist and researcher dedicated to uncovering insights from data and creating impactful solutions.
 baseurl: ""
 url: "https://yifanhu.me"
-theme: midnight
+theme: Midnight
 github_username: Tiff-Hu
 
 # Social links
