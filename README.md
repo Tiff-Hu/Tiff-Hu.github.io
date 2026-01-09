@@ -125,5 +125,7 @@ advantages of diverse base model utilization.
 
 ## Contact
 **Email**: eve9031bruin@g.ucla.edu  
+**LinkedIn**: www.linkedin.com/in/tiffany-hu-career1101/  
 **Location**: Los Angeles, CA  
 **Phone**: 310-905-1233
+
