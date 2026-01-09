@@ -1,7 +1,7 @@
 ![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
-I'm Yifan (Tiffany) Hu, a passionate data scientist and researcher with a solid foundation in statistical methods and its applications in other domains. I recently graduated from University of California, Los Angeles with a Bachelor of Science in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Details of some of my work can be found in my personal GitHub page. 
+I'm Yifan (Tiffany) Hu, a passionate data scientist and researcher with a solid foundation in developing statistical methods and applying them in other domains. I recently graduated from University of California, Los Angeles with a B.S. in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Some of my work can be referenced in my personal GitHub page. 
 
 ## Education
 **Bachelor of Science in Statistics and Data Science | University of California, Los Angeles**  
@@ -91,7 +91,7 @@ department heads.
 - Employed diverse frameworks and technologies to create scalable and efficient solutions using C++, Python, and JavaScript.
 - Conducted trial runs of programs and software applications to ensure they produced the desired information.
 
-### Data Analyst Intern | PwC, Remote  
+### Data Analyst Intern | PwC, Shanghai, China  
 *August 2023 – October 2023*
 - Designed and developed data/metadata models using advanced statistical and data mining techniques to drive business insights and decision-making.
 - Liaised with consulting analysts, data providers, and business teams, ensuring data insights were effectively communicated and integrated into business strategies.
@@ -104,20 +104,23 @@ department heads.
 
 ### Bayesian Analysis on Household Dietary Diversity  
 *June 2024*
-- Conducted a comprehensive Bayesian analysis using Poisson and Negative Binomial regression models to identify key socio-economic and demographic factors influencing household dietary diversity in Tanzania.
-- Enhanced model robustness with various priors, including Lasso, resulting in significant insights for policy implications.
-- Demonstrated that geographical location, household size, vegetable cultivation, and nutritional training are significant predictors of dietary diversity, providing valuable contributions to the field of nutritional epidemiology.
+Constructed a pipeline to scrape and preprocess financial news and social media with NLP (TF-IDF, BERT
+embeddings). Combined sentiment features with stock price data and trained ML models (LSTM, Random Forest)
+for trend prediction. Emphasized interpretable modeling by analyzing feature importance and uncertainty in
+predictions. Evaluated models with accuracy, F1, and AUC-ROC; improved performance via hyperparameter
+tuning, PCA, and feature engineering.
 
 ### Sentiment Analysis Text Mining  
 *January 2024 – March 2024*
-- Conducted comprehensive sentiment and topic analysis on four English translations of “The Tale of Genji” using Latent Dirichlet Allocation.
-- Revealed distinct thematic differences while maintaining overall sentiment consistency.
-- Utilized R for advanced text mining and data visualization, effectively presenting findings through bar graphs, word clouds, and confusion matrices.
+Applied Bayesian Poisson and Negative Binomial regression to study socio-economic effects on dietary diversity in
+Tanzania. Improved model robustness using Bayesian feature selection and shrinkage priors (e.g., LASSO priors),
+generating insights for nutritional epidemiology and policy.
 
 ### U.S. Presidential Election Voting Predictors Analysis  
 *July 2023*
-- Conducted an in-depth investigation into demographic and educational factors influencing voting behaviors by amalgamating k-nearest neighbors, Support Vector Machine, and boosted trees with XGboost and lightgbm engines.
-- Emphasized the advantages of model stacking, notably enhanced tuning precision and diminished overfitting risks, attributed to the diverse set of base models utilized.
+Analyzed demographic influences on voting behavior using ensemble models (XGBoost, LightGBM) and Support
+Vector Machines. Leveraged model stacking to improve prediction accuracy and minimize overfitting, emphasizing
+advantages of diverse base model utilization.
 
 
 ## Contact
