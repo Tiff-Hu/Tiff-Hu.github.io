@@ -103,7 +103,7 @@ department heads.
 ## Academic Projects
 
 ### Bayesian Analysis on Household Dietary Diversity  
-*June 2024*
+
 Constructed a pipeline to scrape and preprocess financial news and social media with NLP (TF-IDF, BERT
 embeddings). Combined sentiment features with stock price data and trained ML models (LSTM, Random Forest)
 for trend prediction. Emphasized interpretable modeling by analyzing feature importance and uncertainty in
@@ -111,13 +111,13 @@ predictions. Evaluated models with accuracy, F1, and AUC-ROC; improved performan
 tuning, PCA, and feature engineering.
 
 ### Sentiment Analysis Text Mining  
-*January 2024 – March 2024*
+
 Applied Bayesian Poisson and Negative Binomial regression to study socio-economic effects on dietary diversity in
 Tanzania. Improved model robustness using Bayesian feature selection and shrinkage priors (e.g., LASSO priors),
 generating insights for nutritional epidemiology and policy.
 
 ### U.S. Presidential Election Voting Predictors Analysis  
-*July 2023*
+
 Analyzed demographic influences on voting behavior using ensemble models (XGBoost, LightGBM) and Support
 Vector Machines. Leveraged model stacking to improve prediction accuracy and minimize overfitting, emphasizing
 advantages of diverse base model utilization.
