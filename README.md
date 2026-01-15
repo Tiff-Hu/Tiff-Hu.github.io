@@ -1,7 +1,7 @@
 ![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
-I'm Tiffany Hu, a passionate data scientist and researcher with a solid foundation in developing statistical methods and applying them in other domains. I recently graduated from University of California, Los Angeles with a B.S. in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Some of my work can be referenced in my personal GitHub page. You can also view my CV [here](./assets/Tiffany's CV.pdf). 
+I'm Tiffany Hu, a passionate data scientist and researcher with a solid foundation in developing statistical methods and applying these methodological tools across a range of substantive domain. I recently graduated from University of California, Los Angeles with a B.S. in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Some of my work can be referenced in my personal GitHub page. You can also view my CV [here](./assets/Tiffany's CV.pdf). 
 
 ## Education
 **Bachelor of Science in Statistics and Data Science | University of California, Los Angeles**  
@@ -10,7 +10,7 @@ GPA: 3.98 / 4.0 | Sep. 2021 – Sep. 2025
 
 ## Technical Skills
 - **Programming**: Python, R, Javascript, MATLAB, C++
-- **Statistics & Machine Learning**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Transformers, Hugging Face, JAX, VLLM
+- **Statistics & Machine Learning**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, Keras, Transformers, Hugging Face, JAX, vLLM
 - **Beyesian Inference**: Stan, rstan, rstanarm, CmdStanPy, coda, loo
 - **Causal Inference**: MatchIt, dagitty, SuperLearner, ivreg
 - **Network Analysis**: sna, NetworkX, igraph
