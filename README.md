@@ -1,7 +1,7 @@
 ![Profile Picture](/assets/picasset.jpg)
 
 ## About Me
-I'm Tiffany Hu, a passionate data scientist and researcher with a solid foundation in developing statistical methods and applying these methodological tools across a range of substantive domain. I recently graduated from University of California, Los Angeles with a B.S. in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in data analysis, machine learning, and methodological research. Some of my work can be referenced in my personal GitHub page. You can also view my CV [here](./assets/Tiffany's CV.pdf). 
+I'm Tiffany Hu, a passionate data scientist and researcher with a solid foundation in developing statistical methods and applying these methodological tools across a range of substantive domain. I recently graduated from University of California, Los Angeles with a B.S. in Statistics and Data Science. My academic journey and professional experiences have equipped me with a robust skill set in NLP, machine learning, and methodological research. Some of my work can be referenced in my personal GitHub page. You can also view my CV [here](./assets/Tiffany's CV.pdf). 
 
 ## Education
 **Bachelor of Science in Statistics and Data Science | University of California, Los Angeles**  
